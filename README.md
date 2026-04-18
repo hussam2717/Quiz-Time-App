@@ -16,3 +16,9 @@ HTML5
 CSS3
 JavaScript 
 
+📂 Project Structure
+quiz-time-app/
+│── index.html
+│── style.css
+│── script.js
+
