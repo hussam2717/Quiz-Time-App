@@ -22,3 +22,9 @@ quiz-time-app/
 │── style.css
 │── script.js
 
+📌 Future Improvements
+Add timer ⏱️
+Add difficulty levels 🎚️
+Store high scores 💾
+Add animations ✨
+
