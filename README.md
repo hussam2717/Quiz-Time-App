@@ -9,5 +9,10 @@ Live Demo -
 📊 Score tracking
 🎨 Clean and responsive UI
 ⚡ Fast and lightweight
+
 🛠️ Tech Stack
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript 
 
